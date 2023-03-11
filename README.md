@@ -1,6 +1,8 @@
 # Default Improved
 
-Default Playnite theme, improved
+Default Improved a barely modified version of Playnite’s default theme, with a
+great focus on preserving its performance and accessibility, before trying to be
+good-looking.
 
 ## Screenshots
 
