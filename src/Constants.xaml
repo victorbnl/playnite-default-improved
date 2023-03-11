@@ -12,7 +12,7 @@
 
     <SolidColorBrush  x:Key="TopBarBackgroundBrush" Color="#0000" />
     <SolidColorBrush x:Key="OverlayMenuBackgroundBrush" Color="#000" />
-	
+
 	<RadialGradientBrush x:Key="MainBackgourndBrush" GradientOrigin="0.5,0.1" Center="0.5,0.2" RadiusX="0.5" RadiusY="0.7">
         <RadialGradientBrush.GradientStops>
             <GradientStop Color="#333" Offset="0" />
