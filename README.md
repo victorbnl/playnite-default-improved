@@ -1,2 +1,3 @@
-# playnite-default-improved
+# Default Improved
+
 Default Playnite theme, improved
